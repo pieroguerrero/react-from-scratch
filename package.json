@@ -1,0 +1,26 @@
+{
+  "name": "react-from-scratch",
+  "version": "1.0.0",
+  "description": "Creation of a React project without any templating tool like CRA or VITE",
+  "main": "index.jsx",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pieroguerrero/react-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pieroguerrero/react-from-scratch/issues"
+  },
+  "homepage": "https://github.com/pieroguerrero/react-from-scratch#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "3.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
