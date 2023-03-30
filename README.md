@@ -3,7 +3,7 @@
 This is a common React.js interview questions.
 **Git it a star ⭐ to used it later**
 
-##Creation of a React project without any templating tool like CRA or VITE
+## Creation of a React project without any templating tool like CRA or VITE
 
 First we have to know that we need a code transpiler, we can use Babel or a VITE transpiler which is a plugin we are going to use on this project.
 
