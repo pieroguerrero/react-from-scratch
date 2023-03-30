@@ -1,7 +1,11 @@
-# react-from-scratch
-Creation of a React project without any templating tool like CRA or VITE
+# Can you set up a React project without any template or web bundler?
 
-We need a transpiler, we can use Babel or a VITE transpiler which is a plugin we are going to use on this project.
+This is a common React.js interview questions.
+**Git it a star ⭐ to used it later**
+
+##Creation of a React project without any templating tool like CRA or VITE
+
+First we have to know that we need a code transpiler, we can use Babel or a VITE transpiler which is a plugin we are going to use on this project.
 
 ## Prerequisites:
 - Have a folder where you want to host your project
