@@ -1,6 +1,7 @@
 # Can you set up a React project without any template or web bundler?
 
 This is a common React.js interview questions.
+
 **Git it a star ⭐ to used it later**
 
 ## Creation of a React project without any templating tool like CRA or VITE
